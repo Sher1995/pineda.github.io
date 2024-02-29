@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Satisfy&display=swap');
+
+
+h1{
+    font-family:  "Lobster", sans-serif;
+   text-align: center;
+}
+
+p{
+font-family: "Satisfy", cursive;
+text-align:center;
+font-size: 22px;
+}
+
+.row img{
+    border-radius: 40%; 
+    display: block;
+  width: 60%;
+  margin: auto;
+  
+}
+
+
+
+
+    
+
+
+
